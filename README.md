@@ -1,4 +1,4 @@
-#### Hi [Nico Mano]() there 👋
+#### Hi [Nico Mano](https://nickmano.github.io/) there 👋
 
 ---
 
