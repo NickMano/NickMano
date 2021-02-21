@@ -1,4 +1,4 @@
-#### Hi [Nico Mano](https://nickmano.github.io/) there 👋
+### Hi [Nico Mano](https://nickmano.github.io/) there 👋
 
 ---
 
@@ -10,7 +10,7 @@ Passionate about technology, design, creating and new ideas. Always keen to lear
 
 ---
 
-#### 🚀 Coding
+### 🚀 Coding
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
