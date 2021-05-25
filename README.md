@@ -2,11 +2,13 @@
 
 ---
 
+<img align="center" alt="header"  src="./header.png" />
+
 Passionate about technology, design, creating and new ideas. Always keen to learn. You can see my portfolio [here](https://nickmano.github.io/).
 
-- 🔭 I’m currently working as Mobile Engineer.
-- 🌱 I’m currently learning more about English, React (native) and other things 😃
-- ⚡ Fun fact: VideoGames 🎮 Music 🎵 Web Development 🖥️ and relax 🧘‍♂️
+- 🔭 I’m currently trying to be a good leader as Mobile Engineer.
+- 🌱 I’m currently learning more about English, React, React Native, testing and design patterns 🤯
+- ⚡ Fun fact: I was a project manager and I like to plan, make decisions based on data. I also like play and create video games and read manga 📚
 
 ---
 
@@ -21,6 +23,7 @@ Passionate about technology, design, creating and new ideas. Always keen to lear
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<br/>
 
 ### 📱 Coding mobile
 
@@ -29,6 +32,7 @@ Passionate about technology, design, creating and new ideas. Always keen to lear
 <img align="left" alt="React Native" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Bitrise" width="28px" src="https://static-00.iconduck.com/assets.00/bitrise-icon-icon-512x420-mherb2fv.png" />
+<br/>
 
 ### 🔌 Coding backend
 
