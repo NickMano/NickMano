@@ -2,6 +2,8 @@
 
 ---
 
+<img align="center" alt="header"  src="./header.png" />
+
 Passionate about technology, design, creating and new ideas. Always keen to learn. You can see my portfolio [here](https://nickmano.github.io/).
 
 - 🔭 I’m currently working as Mobile Engineer.
@@ -21,6 +23,7 @@ Passionate about technology, design, creating and new ideas. Always keen to lear
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<br/>
 
 ### 📱 Coding mobile
 
@@ -29,6 +32,7 @@ Passionate about technology, design, creating and new ideas. Always keen to lear
 <img align="left" alt="React Native" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Bitrise" width="28px" src="https://static-00.iconduck.com/assets.00/bitrise-icon-icon-512x420-mherb2fv.png" />
+<br/>
 
 ### 🔌 Coding backend
 
