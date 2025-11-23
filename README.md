@@ -1,45 +1,48 @@
-### Hi, I'm Nico Mano 👨🏻‍💻
+# Hola, soy Nico Mano 👨🏻‍💻
+*Game Developer por pasión — Full-Stack & Mobile Developer por profesión.*
+
+**“El código es mi dojo. Cada iteración, un paso hacia la maestría.”**
 
 ---
 
-<img align="center" alt="header"  src="./header.png" />
+## 🎮 Game Dev (Hobby & Camino Personal)
+Me gusta crear **mundos, sistemas y prototipos** que exploran movimiento, combate, IA y diseño modular.  
+Trabajo principalmente con:
 
-Passionate about technology, design, creating and new ideas. Always keen to learn. You can see my portfolio [here](https://nickmano.github.io/).
-
-- 🔭 I’m currently trying to be a good leader as Mobile Engineer.
-- 🌱 I’m currently learning more about English, React, React Native, testing and design patterns 🤯
-- ⚡ Fun fact: I was a project manager and I like to plan, make decisions based on data. I also like play and create video games and read manga 📚
+- **Unity (C#)**  
+- Arquitectura de sistemas para gameplay  
+- Prototipos rápidos tipo ARPG / plataformas / exploración
 
 ---
 
-### 💻 Coding frontend
+## 💼 Mobile & Full-Stack (Trabajo Profesional)
+Actualmente desarrollo apps y soluciones end-to-end usando:
 
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+- **iOS (Swift)**
+- **Android**
+- **React Native**
+- **React**
+- **Node.js**
 
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+---
 
-<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+## 🧱 Filosofía (un toque de bushidō)
+- **Rectitud:** Elegir la solución correcta aunque tome más tiempo.  
+- **Disciplina:** Pequeñas mejoras constantes en cada commit.  
+- **Coraje:** Probar ideas nuevas, romper sistemas, reconstruirlos mejor.  
+- **Honestidad:** Código claro, directo y bien documentado.  
 
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+---
 
-<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br/>
+## 🚀 Proyectos Destacados
+- **🕹️ The Legend of Nickest** – prototipo ARPG (Unity)  
+- **🦘 Nickest Jump** – platformer rápido / física simple  
+- **📚 wBooks iOS** – app mobile (Swift)  
+- **📊 JIRA to Sheet** – automations para métricas internas  
+- **🌐 Portfolio Web** – mi landing personal
 
-### 📱 Coding mobile
+---
 
-<img align="left" alt="Swift" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-
-<img align="left" alt="React Native" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Bitrise" width="28px" src="https://static-00.iconduck.com/assets.00/bitrise-icon-icon-512x420-mherb2fv.png" />
-<br/>
-
-### 🔌 Coding backend
-
-<img align="left" alt="GraphQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<br/>
+## 🔗 Enlaces
+- **Portafolio:** https://nickmano.github.io  
+- **GitHub:** acá mismo  
