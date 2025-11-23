@@ -37,7 +37,7 @@ Actualmente desarrollo apps y soluciones end-to-end usando:
 ## 🚀 Proyectos Destacados
 - **🕹️ The Legend of Nickest** – prototipo ARPG (Unity)  
 - **🦘 Nickest Jump** – platformer rápido / física simple  
-- **📚 wBooks iOS** – app mobile (Swift)  
+- **📚 Pokedex iOS** – app mobile (Swift)  
 - **🌐 Portfolio Web** – mi landing personal
 
 ---
