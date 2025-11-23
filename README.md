@@ -26,7 +26,7 @@ Actualmente desarrollo apps y soluciones end-to-end usando:
 
 ---
 
-## 🧱 Filosofía (un toque de bushidō)
+## 🧱 Filosofía
 - **Rectitud:** Elegir la solución correcta aunque tome más tiempo.  
 - **Disciplina:** Pequeñas mejoras constantes en cada commit.  
 - **Coraje:** Probar ideas nuevas, romper sistemas, reconstruirlos mejor.  
